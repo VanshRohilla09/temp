@@ -8,6 +8,7 @@ export default function Home() {
       <h3>ADD NEW FEATURE</h3>
       <h3>add signup feature</h3>
       <h4>normal feature</h4>
+      <h4>tagda feature</h4>
     </>
   );
 }
