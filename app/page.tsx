@@ -10,7 +10,7 @@ export default function Home() {
       <h4>normal feature</h4>
       <h4>tagda feature</h4>
       <h1> this is me</h1>
-      <h1>workflows</h1>
+      <h1>workflows added</h1>
     </>
   );
 }
