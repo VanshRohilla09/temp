@@ -13,3 +13,6 @@ jobs:
 
       - name: Print a message
         run: echo "Hello from GitHub Actions!"
+
+      - name: Intentional Failure
+        run: this-command-does-not-exist
